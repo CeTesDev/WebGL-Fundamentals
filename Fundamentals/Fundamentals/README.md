@@ -66,7 +66,7 @@ clip space coordinates, and a fragment shader that provides the color.
 Clip space coordinates always go from -1 to +1 no matter what size your
 canvas is.
 
-<div class="webgl_center"><img src="resources/clipspace.svg" style="width: 400px"></div>
+<div><img src="clipspace.svg" style="width: 400px"></div>
 
 Here is a simple WebGL example that shows WebGL in its simplest form.
 
